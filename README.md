@@ -1,8 +1,8 @@
-<h1 align="center">A-Frame</h1>
+<h1 align="center">CADBOXX</h1>
 
-<p align="center"><a href="https://aframe.io" target="_blank"><img width="480" alt="A-Frame" src="https://user-images.githubusercontent.com/674727/32120889-230ef110-bb0f-11e7-908c-76e39aa43149.jpg"></a></p>
+<p align="center"><a href="https://cad-boxx.com" target="_blank"><img width="480" alt="A-Frame" src="[https](https://cdn.glitch.global/2a3af8bb-e7b2-4e50-8ce2-68e3e8cf4538/cblogo-t.png?v=1648022923987)"></a></p>
 
-<p align="center"><b>A web framework for building virtual reality experiences.</b></p>
+<p align="center"><b>A web-based environment for building virtual reality experiences and mechanical assemblies.</b></p>
 
 <p align="center">
   <a href="https://travis-ci.org/aframevr/aframe"><img src="https://img.shields.io/travis/aframevr/aframe.svg?style=flat-square" alt="Build Status"></a>
