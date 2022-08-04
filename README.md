@@ -4,32 +4,19 @@
 
 <p align="center"><b>A web-based environment for building virtual reality experiences and mechanical assemblies.</b></p>
 
-<p align="center">
-  <a href="https://travis-ci.org/aframevr/aframe"><img src="https://img.shields.io/travis/aframevr/aframe.svg?style=flat-square" alt="Build Status"></a>
-  <a href="https://codecov.io/gh/aframevr/aframe">
-    <img src="https://codecov.io/gh/aframevr/aframe/branch/master/graph/badge.svg" alt="Coverage Status">
-  </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/dt/aframe.svg?style=flat-square" alt="Downloads">
-  </a>
-  <a href="https://npmjs.org/package/aframe">
-    <img src="https://img.shields.io/npm/v/aframe.svg?style=flat-square" alt="Version">
-  </a>
-  <a href="https://npmjs.com/package/aframe">
-    <img src="https://img.shields.io/npm/l/aframe.svg?style=flat-square" alt="License"></a>
-  </a>
-</p>
+<p align="center"><a href="https://cad-boxx.com" target="_blank"><img width="1200" alt="A-Frame" src="[https]([1648022923987](https://cdn.glitch.global/2a3af8bb-e7b2-4e50-8ce2-68e3e8cf4538/skateboard1200x400bg-white.png?v=1659609701460))"></a></p>
+
 
 <div align="center">
-  <a href="https://aframe.io">Site</a>
+  <a href="https://cad-boxx.com">Site</a>
   &mdash;
-  <a href="https://aframe.io/docs/">Docs</a>
+  <a href="https://cad-boxx.com/docs/">Docs</a>
   &mdash;
-  <a href="https://aframe.io/school/">School</a>
+  <a href="https://youtube.com">Youtube</a>
   &mdash;
-  <a href="https://aframevr.slack.com/join/shared_invite/zt-f6rne3ly-ekVaBU~Xu~fsZHXr56jacQ">Slack</a>
+  <a href="https://cadboxx.com/store/">Store</a>
   &mdash;
-  <a href="https://aframe.io/blog/">Blog</a>
+  <a href="https://cad-boxx.com/blog/">Blog</a>
   &mdash;
   <a href="https://aframe.io/subscribe/">Newsletter</a>
 </div>
